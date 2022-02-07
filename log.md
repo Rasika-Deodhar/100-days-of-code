@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 07, 2022
-##### (delete me or comment me out)
 
 **Today's Progress**: Started with Javascript basics from [FreeCodeCamp](https://www.freecodecamp.org/)
 
