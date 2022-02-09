@@ -12,3 +12,11 @@
 **Today's Progress**: Javascript basics from [FreeCodeCamp](https://www.freecodecamp.org/) (20 challenges)
 
 **Thoughts:** Revision of - Data types, strings and operators in Java script. Started with arrays. Keeping it casual for a few more days till I gain the code brain strength.
+
+
+
+### Day 2: February 09, 2022
+
+**Today's Progress**: Javascript basics from [FreeCodeCamp](https://www.freecodecamp.org/) (till 50 challenges)
+
+**Thoughts:** Revision of - Local and GLobal variables. Functions in Javascript.
