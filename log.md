@@ -26,3 +26,11 @@
 **Today's Progress**: Discovered [java.info] (https://javascript.info/) website. It has everything about Javascript. Read Manuals and Specs page.
 
 **Thoughts:** Was not feeling like coding today, so revised some JS fundamentals.
+
+#####Took 3 days rest because of Covid Booster dose
+
+### Day 4: February 14, 2022
+
+**Today's Progress**: Codingame 1 problem solved. Easy level
+
+**Thoughts:** Very basic problem. Brushed up java scanner input function. Updated resume on codingame.
