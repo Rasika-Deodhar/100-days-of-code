@@ -34,3 +34,9 @@
 **Today's Progress**: Codingame 1 problem solved. Easy level
 
 **Thoughts:** Very basic problem. Brushed up java scanner input function. Updated resume on codingame.
+
+### Day 5: February 15, 2022
+
+**Today's Progress**: Codingame 1 problem solved partially. Easy level
+
+**Thoughts:** No thoughts
