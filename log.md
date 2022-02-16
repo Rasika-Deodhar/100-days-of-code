@@ -40,3 +40,9 @@
 **Today's Progress**: Codingame 1 problem solved partially. Easy level
 
 **Thoughts:** No thoughts
+
+### Day 6: February 16, 2022
+
+**Today's Progress**: Codingame 1 problem solved completely. Easy level
+
+**Thoughts:** No thoughts
