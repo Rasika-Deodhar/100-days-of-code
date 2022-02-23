@@ -55,3 +55,9 @@
 **Today's Progress**: Leetcode Easy Problem (Referred a video on youtube)
 
 **Thoughts:** Unable to make the 100 days of code a consecutive day effort because of other work and personal commitments. Will try my best to look it us as a marathon and not give up until I reach 100 days. 
+
+### Day 9: February 23, 2022
+
+**Today's Progress**: Leetcode Easy Problem
+
+**Thoughts:** No Thoughts 
