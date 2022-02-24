@@ -61,3 +61,9 @@
 **Today's Progress**: Leetcode Easy Problem
 
 **Thoughts:** No Thoughts 
+
+### Day 10: February 24, 2022
+
+**Today's Progress**: Leetcode Easy Problem -> partially done
+
+**Thoughts:** No Thoughts 
