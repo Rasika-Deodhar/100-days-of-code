@@ -64,6 +64,12 @@
 
 ### Day 10: February 24, 2022
 
-**Today's Progress**: Leetcode Easy Problem -> partially done
+**Today's Progress**: Leetcode Medium Problem -> partially done
 
 **Thoughts:** No Thoughts 
+
+### Day 11: February 28, 2022
+
+**Today's Progress**: Leetcode Medium Problem -> partially done
+
+**Thoughts:** Tried a different approach. Still failing. Will try tomorrow.
