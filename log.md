@@ -73,3 +73,9 @@
 **Today's Progress**: Leetcode Medium Problem -> partially done
 
 **Thoughts:** Tried a different approach. Still failing. Will try tomorrow.
+
+### Day 12: March 01, 2022
+
+**Today's Progress**: Leetcode Medium Problem -> completed refering Nick White's video
+
+**Thoughts:** https://www.youtube.com/watch?v=3IETreEybaA -> Refered the video to understand a simpler solution
