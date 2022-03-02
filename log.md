@@ -79,3 +79,9 @@
 **Today's Progress**: Leetcode Medium Problem -> completed refering Nick White's video
 
 **Thoughts:** https://www.youtube.com/watch?v=3IETreEybaA -> Refered the video to understand a simpler solution
+
+### Day 13: March 02, 2022
+
+**Today's Progress**: Leetcode Easy Problems
+
+**Thoughts:** Solving easy problems gives confidence and hope.
