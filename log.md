@@ -85,3 +85,9 @@
 **Today's Progress**: Leetcode Easy Problems
 
 **Thoughts:** Solving easy problems gives confidence and hope.
+
+### Day 14: March 03, 2022
+
+**Today's Progress**: Leetcode Medium Problem -> Refered from Discussion Forum
+
+**Thoughts:** Discussion forum has some very good and simple solution, should check out more often.
