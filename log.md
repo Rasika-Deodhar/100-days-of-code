@@ -91,3 +91,9 @@
 **Today's Progress**: Leetcode Medium Problem -> Refered from Discussion Forum
 
 **Thoughts:** Discussion forum has some very good and simple solution, should check out more often.
+
+### Day 15: March 07, 2022
+
+**Today's Progress**: FreeCodeCamp JS problems
+
+**Thoughts:** No thoughts
