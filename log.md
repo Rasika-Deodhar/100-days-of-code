@@ -97,3 +97,9 @@
 **Today's Progress**: FreeCodeCamp JS problems
 
 **Thoughts:** No thoughts
+
+### Day 16: March 08, 2022
+
+**Today's Progress**: Linkedlist practice on Leetcode - some cases failing
+
+**Thoughts:** No thoughts
