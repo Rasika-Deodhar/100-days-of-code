@@ -103,3 +103,15 @@
 **Today's Progress**: Linkedlist practice on Leetcode - some cases failing
 
 **Thoughts:** No thoughts
+
+### Day 17: March 10, 2022
+
+**Today's Progress**: Java Concepts Revision
+
+**Thoughts:** Given an interview. Knew what to expect and prepare. 
+
+### Day 18: March 12, 2022
+
+**Today's Progress**: FreeCodeCamp Javascript practice
+
+**Thoughts:** Logical operators, switch case and conditional operators revision.
