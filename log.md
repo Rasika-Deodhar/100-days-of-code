@@ -115,3 +115,9 @@
 **Today's Progress**: FreeCodeCamp Javascript practice
 
 **Thoughts:** Logical operators, switch case and conditional operators revision.
+
+### Day 19: March 15, 2022
+
+**Today's Progress**: Leetcode practice problem
+
+**Thoughts:** Unable to resolve some test cases for Linkedin problem.
