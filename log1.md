@@ -120,4 +120,10 @@
 
 **Today's Progress**: Leetcode practice problem
 
-**Thoughts:** Unable to resolve some test cases for Linkedin problem.
+**Thoughts:** Unable to resolve some test cases for Linked list problem.
+
+### Day 20: March 16, 2022
+
+**Today's Progress**: Leetcode practice problem
+
+**Thoughts:** Unable to resolve some test cases for Linked list problem. Debugging did not work, will try new code tomorrow.

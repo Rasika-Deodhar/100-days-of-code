@@ -2,5 +2,6 @@
 
 ## Contents
 
-* [Log - click here to see my progress](log.md)
-* [Resources](resources.md)
+- [Attempt #1](log1.md)
+- [Attempt #2](log2.md)
+- [Resources By Free Code Camp](resources.md)
