@@ -22,3 +22,14 @@
 - Parent/Child Components Practice
 
 **Thoughts:** Basics of Components cleared. Structure of React in comparison to Angular (tech I already know).
+
+### Day 2: May 04, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Todo App - Phase 1
+- Styling React with CSS Classes
+- Some Caveats
+- JSX to JavaScript and Back
+
+**Thoughts:** Learned how to style in react, difference between class and className, switching between Javascript and JSX code.
