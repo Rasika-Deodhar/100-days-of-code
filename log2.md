@@ -33,3 +33,23 @@
 - JSX to JavaScript and Back
 
 **Thoughts:** Learned how to style in react, difference between class and className, switching between Javascript and JSX code.
+
+### Day 3: May 05, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Inline Styles with the Style Property
+- Todo App - Phase 2
+
+**Thoughts:** With a super busy day I covered limited topics but finely. Understood styles and how they are used in components.
+
+### Day 4: May 06, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Props Part 1 - Understanding the Concept
+- Props Part 2 - Reusable Components
+- Props in React
+- Props and Styling Practice
+
+**Thoughts:** Learned about props in React. How to pass them, and access them using object and element format. Learned how its used to render in JSX. Applied style in JSX according to the existence of a certain object peoperty.
