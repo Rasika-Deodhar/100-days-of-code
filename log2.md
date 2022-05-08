@@ -53,3 +53,20 @@
 - Props and Styling Practice
 
 **Thoughts:** Learned about props in React. How to pass them, and access them using object and element format. Learned how its used to render in JSX. Applied style in JSX according to the existence of a certain object peoperty.
+
+### Day 5: May 07, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Mapping Components
+
+**Thoughts:** Mapping components requires a key prop while rendering. Components can be rendered using mapping method, by the use of different JS methods like map(), sort(), filter() etc. 
+
+### Day 6: May 08, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Mapping Components Practice
+- Todo App - Phase 3
+
+**Thoughts:** Practiced Mapping components. Also learned Conditional Rendering depending on styles.
