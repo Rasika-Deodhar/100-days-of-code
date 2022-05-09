@@ -70,3 +70,11 @@
 - Todo App - Phase 3
 
 **Thoughts:** Practiced Mapping components. Also learned Conditional Rendering depending on styles.
+
+### Day 6: May 09, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Class-based Components
+
+**Thoughts:** Learned about Class-Based Components. Unfortunately, no time to practice.
