@@ -60,7 +60,7 @@
 
 - Mapping Components
 
-**Thoughts:** Mapping components requires a key prop while rendering. Components can be rendered using mapping method, by the use of different JS methods like map(), sort(), filter() etc. 
+**Thoughts:** Mapping components requires a key prop while rendering. Components can be rendered using mapping method, by the use of different JS methods like map(), sort(), filter() etc.
 
 ### Day 6: May 08, 2022
 
@@ -71,10 +71,18 @@
 
 **Thoughts:** Practiced Mapping components. Also learned Conditional Rendering depending on styles.
 
-### Day 6: May 09, 2022
+### Day 7: May 09, 2022
 
 **Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
 
 - Class-based Components
 
 **Thoughts:** Learned about Class-Based Components. Unfortunately, no time to practice.
+
+### Day 8: May 10, 2022
+
+**Today's Progress**: JS Practice on [FreeCodeCamp](https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript)
+
+- Objects and Properties
+
+**Thoughts:** Solved something very simple, to keep up the streak with a busy routine.
