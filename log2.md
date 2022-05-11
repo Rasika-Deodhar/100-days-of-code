@@ -86,3 +86,14 @@
 - Objects and Properties
 
 **Thoughts:** Solved something very simple, to keep up the streak with a busy routine.
+
+### Day 9: May 11, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Class-based Components Practice
+- State
+- State Practice
+- State Practice 2
+
+**Thoughts:** Practised about Class-Based Components. Learned about states in React
