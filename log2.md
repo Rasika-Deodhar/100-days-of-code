@@ -96,4 +96,14 @@
 - State Practice
 - State Practice 2
 
-**Thoughts:** Practised about Class-Based Components. Learned about states in React
+**Thoughts:** Practised Class-Based Components. Learned about states in React
+
+### Day 10: May 12, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Todo App - Phase 4
+- Handling Events in React
+- Todo App - Phase 5
+
+**Thoughts:** Learned event handling in React. Documentation of React JS on event handling.
