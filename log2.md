@@ -102,6 +102,16 @@
 
 **Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
 
+- Todo App - Phase 4
+- Handling Events in React
+- Todo App - Phase 5
+
+**Thoughts:** Learned event handling in React. Documentation of React JS on event handling.
+
+### Day 11: May 13, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
 - Changing State
 
-**Thoughts:** Learned concept of state change using event handlers. 
+**Thoughts:** Concept of changing state using event handling.
