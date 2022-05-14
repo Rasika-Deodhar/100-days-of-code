@@ -115,3 +115,19 @@
 - Changing State
 
 **Thoughts:** Concept of changing state using event handling.
+
+### Day 12: May 14, 2022
+
+**Today's Progress**: React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+- Todo App - Phase 6
+
+- Revisiting Leetcode Easy Problems:
+    - Valid Palindrome
+    - Two Sum
+    - Contains Duplicate
+
+- Solved new Problem:
+    - Missing Number
+
+**Thoughts:** Need to resolve the changing state error from Todo App. Trying to practice Leetocode problems daily.
