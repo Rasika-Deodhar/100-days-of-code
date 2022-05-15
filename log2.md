@@ -123,11 +123,29 @@
 - Todo App - Phase 6
 
 - Revisiting Leetcode Easy Problems:
-    - Valid Palindrome
-    - Two Sum
-    - Contains Duplicate
+
+  - Valid Palindrome
+  - Two Sum
+  - Contains Duplicate
 
 - Solved new Problem:
-    - Missing Number
+  - Missing Number
 
 **Thoughts:** Need to resolve the changing state error from Todo App. Trying to practice Leetocode problems daily.
+
+### Day 13: May 15, 2022
+
+**Today's Progress**:
+
+- Revisiting Leetcode Easy Problems:
+
+  - Intersection of Two Arrays II
+  - Single Number
+  - Move Zeroes
+  - Reverse String
+  - Valid Parentheses
+
+- Solved new Problem:
+  - Majority Element
+
+**Thoughts:** Leetcode easy problems + revision helps in boosting confidence.
