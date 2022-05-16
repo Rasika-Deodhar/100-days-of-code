@@ -149,3 +149,17 @@
   - Majority Element
 
 **Thoughts:** Leetcode easy problems + revision helps in boosting confidence.
+
+### Day 14: May 16, 2022
+
+**Today's Progress**:
+
+- Revisiting Leetcode Easy Problems:
+
+  - Best Time to Buy and Sell Stock
+
+- React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+    - Todo App - Phase 6 - Trying to solve the double rendering problem.
+
+**Thoughts:** Harder to troubleshoot the issue in React. Less confidence + concentration today.
