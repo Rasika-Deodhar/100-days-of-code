@@ -123,7 +123,6 @@
 - Todo App - Phase 6
 
 - Revisiting Leetcode Easy Problems:
-
   - Valid Palindrome
   - Two Sum
   - Contains Duplicate
@@ -138,7 +137,6 @@
 **Today's Progress**:
 
 - Revisiting Leetcode Easy Problems:
-
   - Intersection of Two Arrays II
   - Single Number
   - Move Zeroes
@@ -155,11 +153,19 @@
 **Today's Progress**:
 
 - Revisiting Leetcode Easy Problems:
-
   - Best Time to Buy and Sell Stock
 
 - React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
-
     - Todo App - Phase 6 - Trying to solve the double rendering problem.
 
 **Thoughts:** Harder to troubleshoot the issue in React. Less confidence + concentration today.
+
+### Day 15: May 17, 2022
+
+**Today's Progress**:
+
+- Revisiting Leetcode Easy Problems:
+    - Pascal's Triangle
+    - Merge Sorted Array
+
+**Thoughts:** Tough Day at work, still managing code streak.
