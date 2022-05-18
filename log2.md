@@ -169,3 +169,17 @@
     - Merge Sorted Array
 
 **Thoughts:** Tough Day at work, still managing code streak.
+
+### Day 16: May 18, 2022
+
+**Today's Progress**:
+
+- Revisiting Leetcode Easy Problems:
+  - Plus One
+  - Remove Duplicates From Sorted Array
+
+- Solved New Problems:
+  - Valid Anagram
+    
+
+**Thoughts:** Tough Day at work, still managing code streak. Forgetting previous problems. Need to revise.
