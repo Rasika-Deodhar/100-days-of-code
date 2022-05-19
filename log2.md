@@ -183,3 +183,13 @@
     
 
 **Thoughts:** Tough Day at work, still managing code streak. Forgetting previous problems. Need to revise.
+
+### Day 17: May 19, 2022
+
+**Today's Progress**:
+
+- React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+  - Lifecycle Methods
+    
+
+**Thoughts:** Learned Lifecycle methods in React. Will know them as I use them.
