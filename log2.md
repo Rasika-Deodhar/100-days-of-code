@@ -193,3 +193,13 @@
     
 
 **Thoughts:** Learned Lifecycle methods in React. Will know them as I use them.
+
+### Day 18: May 20, 2022
+
+**Today's Progress**:
+
+- React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
+  - Conditional Rendering
+    
+
+**Thoughts:** Rendering conditionally using prop state. JS ternanry operation using true && false. We can directly use condition && display insead or ternary (condition? return 1 : return 2)
