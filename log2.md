@@ -203,3 +203,13 @@
     
 
 **Thoughts:** Rendering conditionally using prop state. JS ternanry operation using true && false. We can directly use condition && display insead or ternary (condition? return 1 : return 2)
+
+### Day 19: May 21, 2022
+
+**Today's Progress**:
+
+- Solved Leetcode Problem:
+  - Maximum Subarray
+    
+
+**Thoughts:** Refering solution from youtube, but coding by self - makes you analyze properly.
