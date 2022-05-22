@@ -213,3 +213,19 @@
     
 
 **Thoughts:** Refering solution from youtube, but coding by self - makes you analyze properly.
+
+### Day 20: May 22, 2022
+
+**Today's Progress**:
+
+- Solved Leetcode Problem:
+  - Excel Sheet Column Number
+  - Implement strStr()
+
+- Revisited Leetcode Problems
+  - Roman to Integer
+  - First Unique Character in a String
+  - Longest Common Prefix
+    
+
+**Thoughts:** Refering solution from youtube, but coding by self - makes you analyze properly.
