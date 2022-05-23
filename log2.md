@@ -229,3 +229,16 @@
     
 
 **Thoughts:** Refering solution from youtube, but coding by self - makes you analyze properly.
+
+### Day 21: May 23, 2022
+
+**Today's Progress**:
+
+- Attempted Solving Leetcode Medium Problem:
+  - Network Delay Time
+
+- Revisited Leetcode Problems
+  - Fizz Buzz
+    
+
+**Thoughts:** Refering solution from youtube, but coding by self - makes you analyze properly.
