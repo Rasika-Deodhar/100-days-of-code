@@ -228,7 +228,7 @@
   - Longest Common Prefix
     
 
-**Thoughts:** Refering solution from youtube, but coding by self - makes you analyze properly.
+**Thoughts:** Nothing.
 
 ### Day 21: May 23, 2022
 
@@ -241,4 +241,17 @@
   - Fizz Buzz
     
 
-**Thoughts:** Refering solution from youtube, but coding by self - makes you analyze properly.
+**Thoughts:** Unable to attempt Medium problem.
+
+### Day 22: May 24, 2022
+
+**Today's Progress**:
+
+- Revised Java Fundamentals
+ - JVM, JRE and JDK
+ - Abstract classes and methods
+ - Static classes and methods
+ - Class loader
+    
+
+**Thoughts:** Understood Dijkstra's algo for Network time delay.
