@@ -255,3 +255,12 @@
     
 
 **Thoughts:** Understood Dijkstra's algo for Network time delay.
+
+### Day 23: May 25, 2022
+
+**Today's Progress**:
+
+- - Understanding Dijkstra's Algorithm
+    
+
+**Thoughts:** Trying to understand Dijkstra's algo for Network time delay. Super tired. Cannot code.
