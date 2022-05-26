@@ -260,7 +260,17 @@
 
 **Today's Progress**:
 
-- - Understanding Dijkstra's Algorithm
+- Understanding Dijkstra's Algorithm
     
 
 **Thoughts:** Trying to understand Dijkstra's algo for Network time delay. Super tired. Cannot code.
+
+### Day 24: May 26, 2022
+
+**Today's Progress**:
+
+- Tried to code Dijkstra's Algorithm. 
+Reference: https://www.youtube.com/watch?v=pVfj6mxhdMw
+    
+
+**Thoughts:** Facing index out of bound exception.
