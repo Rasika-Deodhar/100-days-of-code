@@ -123,6 +123,7 @@
 - Todo App - Phase 6
 
 - Revisiting Leetcode Easy Problems:
+
   - Valid Palindrome
   - Two Sum
   - Contains Duplicate
@@ -137,6 +138,7 @@
 **Today's Progress**:
 
 - Revisiting Leetcode Easy Problems:
+
   - Intersection of Two Arrays II
   - Single Number
   - Move Zeroes
@@ -153,10 +155,11 @@
 **Today's Progress**:
 
 - Revisiting Leetcode Easy Problems:
+
   - Best Time to Buy and Sell Stock
 
 - React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
-    - Todo App - Phase 6 - Trying to solve the double rendering problem.
+  - Todo App - Phase 6 - Trying to solve the double rendering problem.
 
 **Thoughts:** Harder to troubleshoot the issue in React. Less confidence + concentration today.
 
@@ -165,8 +168,8 @@
 **Today's Progress**:
 
 - Revisiting Leetcode Easy Problems:
-    - Pascal's Triangle
-    - Merge Sorted Array
+  - Pascal's Triangle
+  - Merge Sorted Array
 
 **Thoughts:** Tough Day at work, still managing code streak.
 
@@ -175,12 +178,12 @@
 **Today's Progress**:
 
 - Revisiting Leetcode Easy Problems:
+
   - Plus One
   - Remove Duplicates From Sorted Array
 
 - Solved New Problems:
   - Valid Anagram
-    
 
 **Thoughts:** Tough Day at work, still managing code streak. Forgetting previous problems. Need to revise.
 
@@ -190,7 +193,6 @@
 
 - React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
   - Lifecycle Methods
-    
 
 **Thoughts:** Learned Lifecycle methods in React. Will know them as I use them.
 
@@ -200,7 +202,6 @@
 
 - React JS Course from [FreeCodeCamp](https://www.freecodecamp.org/)
   - Conditional Rendering
-    
 
 **Thoughts:** Rendering conditionally using prop state. JS ternanry operation using true && false. We can directly use condition && display insead or ternary (condition? return 1 : return 2)
 
@@ -210,7 +211,6 @@
 
 - Solved Leetcode Problem:
   - Maximum Subarray
-    
 
 **Thoughts:** Refering solution from youtube, but coding by self - makes you analyze properly.
 
@@ -219,6 +219,7 @@
 **Today's Progress**:
 
 - Solved Leetcode Problem:
+
   - Excel Sheet Column Number
   - Implement strStr()
 
@@ -226,7 +227,6 @@
   - Roman to Integer
   - First Unique Character in a String
   - Longest Common Prefix
-    
 
 **Thoughts:** Nothing.
 
@@ -235,11 +235,11 @@
 **Today's Progress**:
 
 - Attempted Solving Leetcode Medium Problem:
+
   - Network Delay Time
 
 - Revisited Leetcode Problems
   - Fizz Buzz
-    
 
 **Thoughts:** Unable to attempt Medium problem.
 
@@ -248,11 +248,10 @@
 **Today's Progress**:
 
 - Revised Java Fundamentals
- - JVM, JRE and JDK
- - Abstract classes and methods
- - Static classes and methods
- - Class loader
-    
+- JVM, JRE and JDK
+- Abstract classes and methods
+- Static classes and methods
+- Class loader
 
 **Thoughts:** Understood Dijkstra's algo for Network time delay.
 
@@ -261,7 +260,6 @@
 **Today's Progress**:
 
 - Understanding Dijkstra's Algorithm
-    
 
 **Thoughts:** Trying to understand Dijkstra's algo for Network time delay. Super tired. Cannot code.
 
@@ -269,8 +267,16 @@
 
 **Today's Progress**:
 
-- Tried to code Dijkstra's Algorithm. 
-Reference: https://www.youtube.com/watch?v=pVfj6mxhdMw
-    
+- Tried to code Dijkstra's Algorithm.
+  Reference: https://www.youtube.com/watch?v=pVfj6mxhdMw
 
 **Thoughts:** Facing index out of bound exception.
+
+### Day 25: May 27, 2022
+
+**Today's Progress**:
+
+- Dijkstra's Algorithm code completed. Leading to solving Network Delay Time Problem of Leetcode.
+  Reference: https://www.youtube.com/watch?v=pVfj6mxhdMw
+
+**Thoughts:** Solved succesfully. Need to write explaination for future use.
