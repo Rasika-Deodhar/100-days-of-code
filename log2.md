@@ -280,3 +280,13 @@
   Reference: https://www.youtube.com/watch?v=pVfj6mxhdMw
 
 **Thoughts:** Solved succesfully. Need to write explaination for future use.
+
+### Day 26: May 28, 2022
+
+**Today's Progress**:
+
+- Discussed approach with a friend([Chirag](https://github.com/avidLearnerInProgress)) to improve problem solving skills in day-to-day life
+- Revised following Data Structures from @geeksforgeeks 
+   - Arrays, Strings, Linked List, Stack, Queue, Graph, Heap, Hashing, Binary Tree
+
+**Thoughts:** Need a better approach to study problem solving.
