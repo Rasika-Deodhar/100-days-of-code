@@ -290,3 +290,21 @@
    - Arrays, Strings, Linked List, Stack, Queue, Graph, Heap, Hashing, Binary Tree
 
 **Thoughts:** Need a better approach to study problem solving.
+
+### Day XX: May 29, 2022
+
+**Today's Progress**:
+
+- Break from Study and Coding
+
+**Thoughts:** Breaks serve best way to relax, rethink and rebounce back harder.
+
+### Day 27: May 30, 2022
+
+**Today's Progress**:
+
+- Attempted solving Design Linked List from Leetcode
+(Test cases failing)
+Not sure if the no. dislikes are flag for flaky problem. But will attempt again tomorrow.
+
+**Thoughts:** Linked list issue is slightly tricky, need to navigate and check properly.
