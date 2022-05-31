@@ -308,3 +308,12 @@
 Not sure if the no. dislikes are flag for flaky problem. But will attempt again tomorrow.
 
 **Thoughts:** Linked list issue is slightly tricky, need to navigate and check properly.
+
+### Day 28: May 31, 2022
+
+**Today's Progress**:
+
+- React JS course from [FreeCodeCamp](https://www.freecodecamp.org/)
+  - Fetching data from an API
+
+**Thoughts:** No thoughts.
