@@ -317,3 +317,11 @@ Not sure if the no. dislikes are flag for flaky problem. But will attempt again 
   - Fetching data from an API
 
 **Thoughts:** No thoughts.
+
+### Day 29: 1st June, 2022
+
+**Today's Progress**:
+
+- Another Attempt in solving Design Linked List from Leetcode (Test cases failing)
+
+**Thoughts:** Will need to code again completely. :(
