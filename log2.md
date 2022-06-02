@@ -325,3 +325,16 @@ Not sure if the no. dislikes are flag for flaky problem. But will attempt again 
 - Another Attempt in solving Design Linked List from Leetcode (Test cases failing)
 
 **Thoughts:** Will need to code again completely. :(
+
+### Day 30: 2nd June, 2022
+
+**Today's Progress**:
+
+- Started Course : Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
+https://www.youtube.com/watch?v=RBSGKlAvoiM
+
+Learned the following:
+- Abstract data types
+- Introduction to Big-O
+
+**Thoughts:** No thoughts
