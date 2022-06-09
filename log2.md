@@ -338,3 +338,18 @@ Learned the following:
 - Introduction to Big-O
 
 **Thoughts:** No thoughts
+
+### Day 31: 9th June, 2022
+
+**Today's Progress**:
+
+- Started Course : Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
+https://www.youtube.com/watch?v=RBSGKlAvoiM
+
+Learned the following:
+- Abstract data types
+- Introduction to Big-O
+- Dynamic and Static Arrays
+- Dynamic Array Code
+
+**Thoughts:** Starting after a vacation is a bit tiring.
