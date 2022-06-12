@@ -353,3 +353,16 @@ Learned the following:
 - Dynamic Array Code
 
 **Thoughts:** Starting after a vacation is a bit tiring.
+
+### Day 32: 12th June, 2022
+
+**Today's Progress**:
+
+- Started Course : Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
+https://www.youtube.com/watch?v=RBSGKlAvoiM
+
+Learned the following:
+- Linked Lists Introduction
+- Doubly Linked List Code
+
+**Thoughts:** Starting after a vacation is a bit boring and harder to focus.
