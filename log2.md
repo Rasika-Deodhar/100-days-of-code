@@ -366,3 +366,19 @@ Learned the following:
 - Doubly Linked List Code
 
 **Thoughts:** Starting after a vacation is a bit boring and harder to focus.
+
+### Day 33: 13th June, 2022
+
+**Today's Progress**:
+
+- Solved Design Linked List problem from Leetcode
+
+**Thoughts:** Finally resolved the problem. Was determined to solve it.
+
+### Day 34: 14th June, 2022
+
+**Today's Progress**:
+
+- Solved Linked List Cycle Problem from Leetcode
+
+**Thoughts:** Solved with very first attempt when I was thinking is a difficult problem. Will try with less space complexity next time.
