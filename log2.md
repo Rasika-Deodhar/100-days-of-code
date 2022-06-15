@@ -382,3 +382,16 @@ Learned the following:
 - Solved Linked List Cycle Problem from Leetcode
 
 **Thoughts:** Solved with very first attempt when I was thinking is a difficult problem. Will try with less space complexity next time.
+
+### Day 35: 15th June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problem Solved:
+  - Linked List Cycle II
+  - Intersection of two Linked Lists
+
+- Attemped Leetcode Problem:
+  - Remove Nth node from End of List
+
+**Thoughts:** Need to check for O(1) space complexity for both solved problems.
