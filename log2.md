@@ -395,3 +395,12 @@ Learned the following:
   - Remove Nth node from End of List
 
 **Thoughts:** Need to check for O(1) space complexity for both solved problems.
+
+### Day 36: 16th June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problem Solved:
+  - Remove Nth Node From End of List
+
+**Thoughts:** Need to check for O(1) space complexity and optimized time complexity for solved problem.
