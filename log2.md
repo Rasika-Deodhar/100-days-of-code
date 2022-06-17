@@ -286,8 +286,8 @@
 **Today's Progress**:
 
 - Discussed approach with a friend([Chirag](https://github.com/avidLearnerInProgress)) to improve problem solving skills in day-to-day life
-- Revised following Data Structures from @geeksforgeeks 
-   - Arrays, Strings, Linked List, Stack, Queue, Graph, Heap, Hashing, Binary Tree
+- Revised following Data Structures from @geeksforgeeks
+  - Arrays, Strings, Linked List, Stack, Queue, Graph, Heap, Hashing, Binary Tree
 
 **Thoughts:** Need a better approach to study problem solving.
 
@@ -304,8 +304,8 @@
 **Today's Progress**:
 
 - Attempted solving Design Linked List from Leetcode
-(Test cases failing)
-Not sure if the no. dislikes are flag for flaky problem. But will attempt again tomorrow.
+  (Test cases failing)
+  Not sure if the no. dislikes are flag for flaky problem. But will attempt again tomorrow.
 
 **Thoughts:** Linked list issue is slightly tricky, need to navigate and check properly.
 
@@ -331,9 +331,10 @@ Not sure if the no. dislikes are flag for flaky problem. But will attempt again 
 **Today's Progress**:
 
 - Started Course : Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
-https://www.youtube.com/watch?v=RBSGKlAvoiM
+  https://www.youtube.com/watch?v=RBSGKlAvoiM
 
 Learned the following:
+
 - Abstract data types
 - Introduction to Big-O
 
@@ -344,9 +345,10 @@ Learned the following:
 **Today's Progress**:
 
 - Started Course : Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
-https://www.youtube.com/watch?v=RBSGKlAvoiM
+  https://www.youtube.com/watch?v=RBSGKlAvoiM
 
 Learned the following:
+
 - Abstract data types
 - Introduction to Big-O
 - Dynamic and Static Arrays
@@ -359,9 +361,10 @@ Learned the following:
 **Today's Progress**:
 
 - Started Course : Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
-https://www.youtube.com/watch?v=RBSGKlAvoiM
+  https://www.youtube.com/watch?v=RBSGKlAvoiM
 
 Learned the following:
+
 - Linked Lists Introduction
 - Doubly Linked List Code
 
@@ -388,6 +391,7 @@ Learned the following:
 **Today's Progress**:
 
 - Leetcode Problem Solved:
+
   - Linked List Cycle II
   - Intersection of two Linked Lists
 
@@ -404,3 +408,11 @@ Learned the following:
   - Remove Nth Node From End of List
 
 **Thoughts:** Need to check for O(1) space complexity and optimized time complexity for solved problem.
+
+### Day 37: 17th June, 2022
+
+**Today's Progress**:
+
+Leetcode - Summary of Two-Pointer in Linked List
+
+**Thoughts:** Super busy day, could not do much.
