@@ -416,3 +416,23 @@ Learned the following:
 Leetcode - Summary of Two-Pointer in Linked List
 
 **Thoughts:** Super busy day, could not do much.
+
+### Day 38: 18th June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problems Solved:
+  - Reverse Linked List
+  - Remove Linked List Elements
+
+**Thoughts:** Gained confidence in Linked List
+
+### Day 39: 19th June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problems Solved:
+  - Odd Even Linked List
+  - Palindrome Linked List
+
+**Thoughts:** Gained confidence in Linked List
