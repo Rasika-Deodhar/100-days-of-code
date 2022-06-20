@@ -436,3 +436,13 @@ Leetcode - Summary of Two-Pointer in Linked List
   - Palindrome Linked List
 
 **Thoughts:** Gained confidence in Linked List
+
+### Day 40: 20th June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problems Solved:
+  - Doubly Linked List
+  - Merge Two Sorted Linked List
+
+**Thoughts:** Gained confidence in Linked List
