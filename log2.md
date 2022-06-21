@@ -446,3 +446,12 @@ Leetcode - Summary of Two-Pointer in Linked List
   - Merge Two Sorted Linked List
 
 **Thoughts:** Gained confidence in Linked List
+
+### Day 41: 21st June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problem Revisited:
+  - Add Two Numbers
+
+**Thoughts:** Gained confidence in Linked List. Super busy day at office. Managed to revisit the problem I solved before.
