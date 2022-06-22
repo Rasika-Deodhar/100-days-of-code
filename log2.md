@@ -455,3 +455,12 @@ Leetcode - Summary of Two-Pointer in Linked List
   - Add Two Numbers
 
 **Thoughts:** Gained confidence in Linked List. Super busy day at office. Managed to revisit the problem I solved before.
+
+### Day 42: 22nd June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problem Attempted:
+  - Flatten a Multilevel Doubly Linked List
+
+**Thoughts:** New problem on Linked List, new challenge.
