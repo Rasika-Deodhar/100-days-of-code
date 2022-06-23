@@ -464,3 +464,15 @@ Leetcode - Summary of Two-Pointer in Linked List
   - Flatten a Multilevel Doubly Linked List
 
 **Thoughts:** New problem on Linked List, new challenge.
+
+### Day 42: 22nd June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problem Solved:
+  - Flatten a Multilevel Doubly Linked List
+
+- Leetcode Problem Attempted:
+  - Copy List with Random Pointer
+
+**Thoughts:** New problem on Linked List, new challenge.
