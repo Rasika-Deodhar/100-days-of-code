@@ -465,7 +465,7 @@ Leetcode - Summary of Two-Pointer in Linked List
 
 **Thoughts:** New problem on Linked List, new challenge.
 
-### Day 42: 22nd June, 2022
+### Day 43: 22nd June, 2022
 
 **Today's Progress**:
 
@@ -477,7 +477,7 @@ Leetcode - Summary of Two-Pointer in Linked List
 
 **Thoughts:** New problem on Linked List, new challenge.
 
-### Day 43: 23rd June, 2022
+### Day 44: 23rd June, 2022
 
 **Today's Progress**:
 
@@ -486,11 +486,22 @@ Leetcode - Summary of Two-Pointer in Linked List
 
 **Thoughts:** Solved with Youtube resource - https://www.youtube.com/watch?v=toXiQdhGf64. Easy explaination.
 
-### Day 44: 27th June, 2022
+### Day 45: 27th June, 2022
 
 **Today's Progress**:
 
 - Leetcode Problem Solved:
   - Rotate List
+
+**Thoughts:** 2 days break because of apartment shifting. Good to be back.
+
+### Day 46: 28th June, 2022
+
+**Today's Progress**:
+
+- Leetcode Problems:
+  - First-in-first-out Data Structure
+  - Queue - Implementation
+  - Circular Queue
 
 **Thoughts:** 2 days break because of apartment shifting. Good to be back.
