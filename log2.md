@@ -505,3 +505,12 @@ Leetcode - Summary of Two-Pointer in Linked List
   - Circular Queue
 
 **Thoughts:** 2 days break because of apartment shifting. Good to be back.
+
+### Day 47: 3rd July, 2022
+
+**Today's Progress**:
+
+- Java concepts revision (JVM, JRE, static keyword, abstract keyword)
+- Final Keyword usage 
+
+**Thoughts:** Super tired with workload. Relaxed for a couple of days. Starting again.
