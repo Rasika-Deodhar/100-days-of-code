@@ -514,3 +514,20 @@ Leetcode - Summary of Two-Pointer in Linked List
 - Final Keyword usage 
 
 **Thoughts:** Super tired with workload. Relaxed for a couple of days. Starting again.
+
+### Day 48: 5th July, 2022
+
+**Today's Progress**:
+
+- Java concepts studied: Immutable class, Singleton class
+
+**Thoughts:** Only doing theorotical things for now.
+
+### Day 48: 6th July, 2022
+
+**Today's Progress**:
+
+- Leetcode Problem Solved:
+  - Design Circular Queue
+
+**Thoughts:** Good attempt at Leetcode problem.
