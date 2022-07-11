@@ -531,3 +531,13 @@ Leetcode - Summary of Two-Pointer in Linked List
   - Design Circular Queue
 
 **Thoughts:** Good attempt at Leetcode problem.
+
+### Day 49: 11th July, 2022
+
+**Today's Progress**:
+
+- Leetcode Problems Studied:
+  - Queue and BFS
+  - BFS - Template
+
+**Thoughts:** No thoughts.
