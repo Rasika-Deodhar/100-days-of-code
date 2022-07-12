@@ -541,3 +541,13 @@ Leetcode - Summary of Two-Pointer in Linked List
   - BFS - Template
 
 **Thoughts:** No thoughts.
+
+### Day 49: 12th July, 2022
+
+**Today's Progress**:
+
+- SQL queries revisit:
+  - Get top N values from a table
+  - Difference between HAVING and WHERE clause
+
+**Thoughts:** No thoughts.
