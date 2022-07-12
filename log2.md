@@ -542,7 +542,7 @@ Leetcode - Summary of Two-Pointer in Linked List
 
 **Thoughts:** No thoughts.
 
-### Day 49: 12th July, 2022
+### Day 50: 12th July, 2022
 
 **Today's Progress**:
 
