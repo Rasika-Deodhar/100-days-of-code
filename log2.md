@@ -551,3 +551,13 @@ Leetcode - Summary of Two-Pointer in Linked List
   - Difference between HAVING and WHERE clause
 
 **Thoughts:** No thoughts.
+
+### Day 51: 13th July, 2022
+
+**Today's Progress**:
+
+- SQL revisit:
+  - Difference between TRUNCATE and DELETE query
+  - Difference between VIEW and TABLE
+
+**Thoughts:** No thoughts.
