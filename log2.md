@@ -570,3 +570,16 @@ Attempted Solving Geeks For Geeks Problem -
  - Subarray with given sum
 
 **Thoughts:** Difficult to solve after a break.
+
+### Day 53: 21th July, 2022
+
+**Today's Progress**:
+
+Solved Leetcode Problem -
+  - Binary Search Algorithm
+
+ Revisited Problems -
+  - Find All Numbers Disappeared in an Array
+  - Third Maximum Number 
+
+**Thoughts:** Difficult to solve after a break.
